@@ -2,7 +2,7 @@
 
 ### I'm a Self-taught front end Developer and JavaScript geek
 
-I've been teaching and still learning new tech tools I've had a lot of challenges through my learning journey which made me solid and ready to face any problem. I love Reactjs it's an amazing technology how it cames with a new architecture for dealing with the UI and I'm amazed by how technology evolving each day each month and each year that gives another challenge which is keeping your self up to date packed with the latest technologies and tools.
+I've been teaching and still learning new tech tools I've had a lot of challenges through my learning journey which made me solid and ready to face any problem. I love Reactjs it's an amazing technology how it came with a new architecture for dealing with the UI, and I'm amazed by how technology evolving each day each month, and each year that gives another challenge which is keeping yourself up to date packed with the latest technologies and tools.
 I'm ambitious looking to make my place in the tech world.
 I'm currently looking for an opportunity to take my career to the next level to learn more to face more complicated and challenging problems.
 
