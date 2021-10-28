@@ -2,8 +2,7 @@
 
 ##### I'm a Self-taught Full-stack JavaScript & TypeScript Developer
 
-##### someone who is crazy about technology in love with computers so speaking JavaScript is my thing and that's exactly what I'm doing at [Obytes][obytes] 😃😄
-
+#### Currently working a Full stack engineer at [4D][4d]
 #### Connect with me :
 
 [<img align="left" alt="unessdev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -52,4 +51,4 @@
 [linkedin]: www.linkedin.com/in/younessdev
 [twitter]: https://twitter.com/younessdev
 [ig]: https://www.instagram.com/unessdev/
-[obytes]: https://www.obytes.com/
+[4d]: https://4d.com
