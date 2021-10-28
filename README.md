@@ -2,7 +2,7 @@
 
 ##### I'm a Self-taught Full-stack JavaScript & TypeScript Developer
 
-#### Currently working a Full stack engineer at [4D][4d]
+##### Currently working as Full-stack engineer at [4D][4d]
 #### Connect with me :
 
 [<img align="left" alt="unessdev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
