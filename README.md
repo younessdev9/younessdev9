@@ -1,6 +1,6 @@
 ## Hi there, I'm [Youness Hassani][website] 👋
 
-##### I'm a Self-taught Full-stack JavaScript & TypeScript Developer
+##### I'm a Self-taught Full-stack JavaScript & TypeScript Developer working as JS dev at the day, Golanging at night
 
 ##### Currently working as Full-stack engineer at [4D][4d]
 #### Connect with me :
